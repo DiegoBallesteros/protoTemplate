@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
 <extension version="2.5" type="template" client="site">
-	<name>protostar</name>
+	<name>protoTemplate</name>
 	<version>1.0</version>
-	<creationDate>4/30/2012</creationDate>
-	<author>Daoua Lotfi based on the work of Kyle Ledbetter</author>
-	<authorEmail>admin@joomla.org</authorEmail>
-	<copyright>Copyright (C) 2005 - 2012 Open Source Matters, Inc. All rights reserved.</copyright>
-	<description>TPL_PROTOSTAR_XML_DESCRIPTION</description>
+	<creationDate>2/14/2014</creationDate>
+	<author>Various</author>
+	<authorEmail>contacto@angelcachon.es</authorEmail>
+	<copyright></copyright>
+	<description>TPL_PROTOTEMPLATE_XML_DESCRIPTION</description>
 	<files>
 		<filename>component.php</filename>
 		<filename>favicon.ico</filename>
@@ -42,8 +42,8 @@
 		<position>position-14</position>
 	</positions>
 	<languages folder="language">
-		<language tag="en-GB">en-GB/en-GB.tpl_protostar.ini</language>
-		<language tag="en-GB">en-GB/en-GB.tpl_protostar.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_prototemplate.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_prototemplate.sys.ini</language>
 	</languages>
 	<config>
 		<fields name="params">
